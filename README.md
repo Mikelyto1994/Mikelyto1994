@@ -31,10 +31,10 @@ I also develop backend systems for **treasury management** and **hotel managemen
     <a href="https://github.com/Mikelyto1994">
         <img alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/-|GitHub-1F222E?style=for-the-badge&logoColor=C90076&logo=github"/>
     </a>
-    <a href="https://www.linkedin.com/in/miguel-pariona-293890215/">
-        <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-|LinkedIn-1F222E?style=for-the-badge&logoColor=0077B5&logo=linkedin"/>
-    </a>
-</p>
+<a href="https://www.linkedin.com/in/miguel-pariona-293890215/" target="_blank">
+    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-|LinkedIn-1F222E?style=for-the-badge&logoColor=0077B5&logo=linkedin"/>
+</a>
+********</p>
 
 ## 🧙‍♀️ Featured Projects:
 
@@ -60,10 +60,12 @@ A hotel management system to handle bookings, guest information, and room availa
 
 ## 🤝 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-pariona-293890215/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/miguelpariona)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/miguelpariona)
-
+<p align="center">
+    </a>
+    <a href="https://instagram.com/" target="_blank">
+        <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    </a>
+</p>
 ## 📊 My Stats:
 
 <div align="center">
