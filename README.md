@@ -1,37 +1,89 @@
-# Miguel Pariona - Full Stack Developer
+<!-- Animación de saludo con texto -->
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=30&pause=1000&color=00FF00 &center=true&repeat=false&random=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Miguel+Pariona" alt="Typing SVG" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=B439D4E4&background=00000018&width=435&lines=Full+Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;E-commerce+Creator+%F0%9F%92%BB;React%2C+Node%2C+MySQL+%F0%9F%93%92" alt="Typing SVG" />
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Mikelyto1994&color=blue"/>
+</p>
+
+<p align="center">
+    <img src="https://avatars.githubusercontent.com/u/157014665?v=4" width="150" height="150" style="border-radius:50%;" />
+</p>
 
 ## 🚀 About Me:
 
-Full Stack Developer with 2 years of experience in web development and building scalable applications.  
-I am **Miguel Pariona**, a passionate **Full Stack Developer** with experience in creating e-commerce stores, deploying them with functionalities like **admin management**, **user modes**, and **Stripe payment integration**. 💳  
-I have also developed web systems for **treasury record management** and **hotel management**, applying my knowledge of technologies like **React**, **Node.js**, **MySQL**, and **PostgreSQL**.  
-My focus is on building user-friendly, responsive web apps, while ensuring smooth and secure backend integration.  
-I love collaborating on projects that bridge the gap between technical and business needs, while always aiming to improve user experience. ✨
+Full Stack Developer with 3 years of experience, specializing in **React**, **Node.js**, **MySQL**, and **PostgreSQL**.  
+I love building scalable web applications, particularly **e-commerce** solutions with integrated **Stripe payments**.  
+I also develop backend systems for **treasury management** and **hotel management**.  
+
+**My Goal:** To build applications that provide smooth user experiences and solve real-world problems. 🎯
+
+<p align="center">
+    <a href="https://github.com/Mikelyto1994">
+        <img alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/-|GitHub-1F222E?style=for-the-badge&logoColor=C90076&logo=github"/>
+    </a>
+    <a href="https://www.linkedin.com/in/miguel-pariona-293890215/">
+        <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-|LinkedIn-1F222E?style=for-the-badge&logoColor=0077B5&logo=linkedin"/>
+    </a>
+</p>
 
 ## 🧙‍♀️ Featured Projects:
 
 ### E-commerce Platform
-I created an **e-commerce store** that integrates **Stripe** for secure payments and offers both **admin** and **user modes** for a seamless shopping experience. [View on GitHub](https://github.com/Mikelyto1994/ecommerce-project)
+I created an **e-commerce store** with **Stripe** integration for secure payments, including an **admin panel** for easy product management and a **user mode** for smooth shopping.  
+[View on GitHub](https://github.com/Mikelyto1994/ecommerce-project)
 
 ### Treasury Management System
-A web-based **treasury management system** to keep track of financial records and manage various operations securely. [View on GitHub](https://github.com/Mikelyto1994/treasury-system)
+A web system to track and manage financial records in a **treasury management** environment.  
+[View on GitHub](https://github.com/Mikelyto1994/treasury-system)
 
 ### Hotel Management System
-Developed a **hotel management system** to manage bookings, guest records, and room availability. [View on GitHub](https://github.com/Mikelyto1994/hotel-management-system)
-
-## 🔗 Links:
-- [GitHub](https://github.com/Mikelyto1994)
-- [LinkedIn](https://www.linkedin.com/in/miguel-pariona-293890215/)
+A hotel management system to handle bookings, guest information, and room availability.  
+[View on GitHub](https://github.com/Mikelyto1994/hotel-management-system)
 
 ## 🧰 Technologies I Use:
 
-- **Frontend**: React, Vite, Tailwind CSS, Sass, Bootstrap, HTML, CSS, Typescript
-- **Backend**: Node.js, Express, Java, Spring Boot
-- **Databases**: MySQL, PostgreSQL
-- **Tools**: GitHub, Cloudinary, Stripe
-
-## 📸 My Profile Image:
-
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/122529721?v=4" width="150" height="150" style="border-radius:50%;" />
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,java,express,mysql,postgresql,html,css,tailwind,git,github,cloudinary,stripe&perline=5" />
+    </a>
 </p>
+
+## 🤝 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-pariona-293890215/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/miguelpariona)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/miguelpariona)
+
+## 📊 My Stats:
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mikelyto1994&show_icons=true&theme=tokyonight" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikelyto1994&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mikelyto1994&theme=tokyonight" />
+</div>
+
+## 👩‍💻 How I Work:
+
+- 🔭 Currently working on improving my **e-commerce** platforms and integrating new features like **real-time payments**.
+- 🌱 Always learning new technologies and frameworks to enhance my development skills.
+- 📫 You can reach me via my **LinkedIn** or **GitHub** links above!
+
+---
+
+**Made by Miguel Pariona**
